@@ -1,0 +1,5 @@
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjects\bin\Debug\RedingtonExam.BusinessObjects.dll
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjects\bin\Debug\RedingtonExam.BusinessObjects.pdb
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjects\obj\Debug\RedingtonExam.BusinessObjects.csprojResolveAssemblyReference.cache
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjects\obj\Debug\RedingtonExam.BusinessObjects.dll
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjects\obj\Debug\RedingtonExam.BusinessObjects.pdb

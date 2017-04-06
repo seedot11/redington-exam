@@ -1,0 +1,9 @@
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\bin\Debug\RedingtonExam.BusinessObjectsTests.dll
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\bin\Debug\RedingtonExam.BusinessObjectsTests.pdb
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\bin\Debug\RedingtonExam.BusinessObjects.dll
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\bin\Debug\RedingtonExam.BusinessObjects.pdb
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\obj\Debug\RedingtonExam.BusinessObjectsTests.csprojResolveAssemblyReference.cache
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\obj\Debug\RedingtonExam.BusinessObjectsTests.dll
+c:\users\db\documents\visual studio 2015\Projects\RedingtonExam\RedingtonExam.BusinessObjectsTests\obj\Debug\RedingtonExam.BusinessObjectsTests.pdb
